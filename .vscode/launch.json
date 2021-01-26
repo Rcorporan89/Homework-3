@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Open recent-albums.component.html",
+            "file": "/Volumes/RickeyTD/gmhstuff/FrontEnd Stuff/HWS/HW 3/MyPhotoApplication/src/app/recent-albums/recent-albums.component.html"
+        }
+    ]
+}
